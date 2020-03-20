@@ -1,0 +1,7 @@
+Database name: databasesample
+table name: meowmeowdb
+
+create database and table
+the table have four elements
+id-->AUto increament
+name,age, color
